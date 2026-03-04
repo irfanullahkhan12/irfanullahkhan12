@@ -1,75 +1,71 @@
-# 🚀 Irfan Ullah | Software Engineer & Flutter Expert
+# <img src="https://media.giphy.com/media/WUlNh79937EiYo1Sw5/giphy.gif" width="40px"> Irfan Ullah | Flutter Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-[cite_start]Ek saal se zyada ka experience rakhne wala **Software Engineer** jo user-friendly aur seamless cross-platform applications banane ka junoon rakhta hai[cite: 2, 3]. [cite_start]Meri expertise **Flutter** ecosystem mein hai, jahan mein complex problems ko simple aur elegant solutions mein badalta hoon[cite: 3, 4].
+## 🚀 Overview
+Main aik dedicated **Software Engineer** hoon jo high-quality mobile applications banane mein maharat rakhta hoon. Meri expertise **Flutter** ecosystem aur multi-platform development mein hai.
 
-- [cite_start]📍 Lahore, Pakistan [cite: 7]
-- [cite_start]📧 irfan.a2917@gmail.com [cite: 5]
-- [cite_start]💼 [LinkedIn Profile](https://linkedin.com/in/irfan-ullah-a23649217) [cite: 8]
-
----
-
-## 🛠 Tech Stack & Skills
-
-### **Mobile Development**
-* [cite_start]**Frameworks:** Flutter & Dart[cite: 32].
-* [cite_start]**State Management:** Bloc, Provider, Riverpod, aur GetX[cite: 17, 32].
-* [cite_start]**Architecture:** Clean Architecture[cite: 38].
-
-### **Integrations & Tools**
-* [cite_start]**Backend:** Firebase, REST APIs Integration[cite: 34, 37].
-* [cite_start]**Advanced Features:** Agora (Video/Audio/Streaming), Google Maps, OneSignal Notifications[cite: 16, 38, 39].
-* [cite_start]**Monetization:** Google AdMob[cite: 15, 33].
-* [cite_start]**Payments:** Stripe, PayPal, aur Secure Digital Wallets[cite: 14, 43].
-* [cite_start]**Development Tools:** Postman, GitHub, Git[cite: 32].
+- 📍 **Location:** Lahore, Pakistan
+- 📧 **Email:** irfan.a2917@gmail.com
+- 📱 **Contact:** 03313334735
 
 ---
 
-## 💼 Professional Experience
+## 🛠 My Tech Stack
 
-### **Flutter Developer @ Socioon**
-[cite_start]*Dec 2023 – Present* [cite: 10, 11]
-* [cite_start]Secure payments (Stripe/PayPal), live streaming, aur real-time chatting features implement kiye[cite: 14].
-* [cite_start]Google AdMob aur OneSignal ke zariye app monetization aur engagement ko behtar banaya[cite: 15, 16].
-* [cite_start]Scalable coding ke liye Bloc aur Riverpod ka istemal kiya[cite: 17].
-
-### **Flutter Internship @ Heapware**
-[cite_start]*Mar 2022 – Dec 2022* [cite: 18, 19]
-* [cite_start]Android aur iOS ke liye Task Reminder aur Coffee Ordering apps banaye[cite: 22, 23].
-* [cite_start]API integration aur state management (GetX/Provider) ki base seekhi[cite: 26, 27].
-
----
-
-## 🚀 Featured Projects
-
-| Project Name | Key Highlights |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **LinkOn / Paroter** | [cite_start]Social media app jis mein live broadcasting, audio/video calling, aur digital wallet shamil hai[cite: 41, 42, 43]. |
-| **PTI (Rabta)** | [cite_start]UI components aur backend data flow par kaam kiya taake political outreach ko behtar banaya ja sakay[cite: 44, 47, 48]. |
-| **Bandhu** | [cite_start]Indian social media app jis mein location tracking aur secure friend invite mechanism hai[cite: 51, 52, 53]. |
+| **Languages** | Dart, OOP Fundamentals |
+| **State Management** | Bloc, Provider, Riverpod, GetX |
+| **Backend & DB** | Firebase, Firestore, SQLite |
+| **Cloud & APIs** | REST APIs, Postman, Agora SDK |
+| **Features** | Google Maps, Stripe/PayPal, AdMob |
+| **Version Control** | GitHub, Git |
 
 ---
 
-## 🎓 Education & Certifications
-* [cite_start]**BS in Computer Science** – Virtual University of Pakistan (2018–2023)[cite: 29, 30, 54].
-* [cite_start]**Mobile App Development Certification** – NAVTTC, Lahore[cite: 66].
-* [cite_start]**ICS (Computer Science)** – Gov. Islamia College Civil Lines, Lahore[cite: 62, 63].
+## 💼 Work Experience
+
+### 📱 Flutter Developer @ Socioon
+*12/2023 - Present*
+- **Real-time Engine:** Live streaming, video calls (Agora), aur real-time chat implement kiya.
+- **Fintech Integration:** Secure payment gateways (Stripe & PayPal) aur digital wallet par kaam kiya.
+- **Advanced Tools:** OneSignal push notifications aur Google AdMob monetization add ki.
+
+### 🎓 Flutter Intern @ Heapware
+*03/2022 - 12/2022*
+- Android aur iOS ke liye basic functional apps (Coffee ordering, Task reminders) develop kiye.
+- API integration aur complex UI design ki basics seekhi.
 
 ---
 
-## 🌐 Languages
-* [cite_start]**Urdu:** Native[cite: 70, 72].
-* [cite_start]**English:** Professional Working Proficiency[cite: 69, 71].
+## 📂 Top Projects
+
+- **⚡ Paroter/LinkOn:** Ek advance social media app jis mein interactive stories aur wallet system mojood hai.
+- **🇵🇰 PTI (Rabta):** Frontend logic aur data flow manage kiya taake user engagement behtar ho sake.
+- **🤝 Bandhu:** Indian social app jis mein location tracking aur invitation mechanisms shamil hain.
 
 ---
+
+## 🎓 Academic Background
+- **BS Computer Science** | Virtual University of Pakistan
+- **Mobile App Development Certificate** | NAVTTC, Lahore
+- **ICS (Computer Science)** | Gov. Islamia College Civil Lines, Lahore
+
+---
+
 <p align="center">
-  <i>"Crafting mobile experiences that matter."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="Irfan GitHub Stats" />
+</p>
+
+<p align="center">
+  <b>Let's Connect!</b><br>
+  <a href="https://linkedin.com/in/irfan-ullah-a23649217">LinkedIn</a> • <a href="mailto:irfan.a2917@gmail.com">Email</a>
 </p>
